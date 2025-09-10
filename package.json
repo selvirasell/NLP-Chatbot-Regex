@@ -1,0 +1,18 @@
+{
+  "name": "nlp-chatbot",
+  "version": "1.0.0",
+  "description": "Rule-based chatbot dengan regex di Telegram",
+  "main": "src/telegram-kosan.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/telegram-kosan.js",
+    "test": "node --test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "node-telegram-bot-api": "^0.63.0"
+  }
+}
