@@ -1,7 +1,12 @@
 # 🏠 NLP Chatbot Kosan (Telegram)
 
-hatbot sederhana berbasis **Node.js** untuk membantu penghuni kos dengan aturan, jadwal, dan informasi fasilitas.  
-Bot ini terintegrasi dengan **Telegram Bot API**.   
+#### Chatbot sederhana berbasis **Node.js** untuk membantu penghuni kos dengan aturan, jadwal, informasi fasilitas, dll. Bot ini terintegrasi dengan **Telegram Bot API**.   
+---
+
+## 👩‍💻 Kontributor
+- **Nama**: Aisa Selvira Quraata A’yunni  
+- **NIM**: 22/498561/TK/54690  
+- **Program Studi**: Teknologi Informasi  
 
 ---
 
@@ -67,11 +72,4 @@ npm test
 ![Telegram Demo 2](demo2.png)
 ![Telegram Demo 3](demo3.png)
 
----
 
-## 👩‍💻 Kontributor
-- **Nama**: Aisa Selvira Quraata A’yunni  
-- **NIM**: 22/498561/TK/54690  
-- **Program Studi**: Teknologi Informasi  
-
----
